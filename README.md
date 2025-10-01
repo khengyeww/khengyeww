@@ -1,8 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khengyeww/khengyeww/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khengyeww/khengyeww/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/khengyeww/khengyeww/output/pacman-contribution-graph.svg">
-</picture>
+<!-- Credit to [abozanona](https://github.com/abozanona/pacman-contribution-graph) -->
+<img src="https://pacman.abozanona.me/?username=khengyeww" alt="pacman graph"  />
 
 ##
 
